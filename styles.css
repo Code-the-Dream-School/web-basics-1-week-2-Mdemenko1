@@ -1,0 +1,10 @@
+h1{
+    color:blue;
+    box-sizing: content-box;
+    width: 175px;
+    height: 45px;
+    padding: 5px;
+    margin: 10px;
+    border: solid blue 3px;
+
+}
